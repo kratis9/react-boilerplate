@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/kratis9/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/kratis9/react-boilerplate#readme"
+  "homepage": "https://github.com/kratis9/react-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
+  }
 }
